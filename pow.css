@@ -1,0 +1,75 @@
+/*
+Project Name: A Simple Web Site (HW16)  
+Author: Paola Wollants 
+Date Last Modified: April 30, 2019
+GitHub User: PaolaMWollants
+/*
+/* Set the body background, text color, and font style */
+body { background-image: url("just-waves.png");
+       color: #000000;
+       font-family:Verdana, Arial, sans-serif;
+       background-color: #F0F8FF;
+}
+/* wrapper*/
+#wrapper { background-color: #FFFFFF;
+           margin-left: auto;
+           margin-right: auto;
+           min-width: 700px;
+           max-width: 1024px;
+           box-shadow: 5px 5px 5px #000000;
+           height: 100%;
+}
+/* Set the header background, text color, and font style*/
+header { background-color: #FFFFFF;
+        background-image: url("powlogo.jpg");
+        background-position: right-top;
+        background-repeat: no-repeat;
+        height: 160px;
+}
+/*h1 element*/
+h1 { padding-top: 45px;
+     padding-left: 200pxpx;
+     font-size: 3em;
+     text-align: center;
+     color: #F08080;
+     font-family: Georgia, serif;
+}
+/* Set nav element bold text and background*/
+nav { background-color: #FFFFFF;
+      color: #EEDFCC;
+      text-align: center;
+      font-weight: bold;
+      font-size: 1.0em;
+      padding-top: 10px;
+      text-decoration: none;
+      
+}
+/* Set h2 element text color and font style*/
+h2 { color: #F08080;
+     font-family: Georgia,serif; 
+     font-weight: bold;
+}
+/*set h3 element*/
+h3 { color: #000033;
+}
+/*set main element*/
+main { padding-left: 2em;
+       padding-right: 2em;
+}
+/* Set d2 element text color and font weight*/
+d2 { color: #FFFFFF; 
+    font-weight: bold;
+    text-align: center;
+}
+/* Style all elements with class="resort"*/
+.resort { color: #000033;
+          font-size: 1.2em;
+}
+/* Set footer*/
+footer { font-size: .70em;
+         font-style: italic;
+         text-align: center;
+         padding: 1em;
+
+
+    
